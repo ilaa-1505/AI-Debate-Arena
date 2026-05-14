@@ -17,13 +17,14 @@ Built with FastAPI on the backend and streamed live to the frontend.
 
 ## Live Demo
 
-[**Try it here**](https://your-demo-link.com)
+[Live Demo](https://huggingface.co/spaces/Ilaa-1505/AI-Debate-Arena)
+> Initial start-up may take some time.
 
 ---
 
 ## Video Walkthrough
 
-[![Watch demo](images/arena-setup.png.png)](https://youtube.com/shorts/AF9YbKz4v_k)
+[![Watch demo](images/arena-setup.png)](https://youtube.com/shorts/AF9YbKz4v_k)
  
 *Click the image to watch the demo*
 
