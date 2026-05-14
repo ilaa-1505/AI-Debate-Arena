@@ -24,9 +24,8 @@ Built with FastAPI on the backend and streamed live to the frontend.
 
 ## Video Walkthrough
 
-[![Watch demo](images/arena-setup.png)](https://youtube.com/shorts/AF9YbKz4v_k)
+[![Watch demo](images/demo.gif)]
  
-*Click the image to watch the demo*
 
 ---
 
