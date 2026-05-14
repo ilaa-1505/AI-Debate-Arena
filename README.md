@@ -17,7 +17,7 @@ Built with FastAPI on the backend and streamed live to the frontend.
 
 ## Live Demo
 
-[Live Demo](https://huggingface.co/spaces/Ilaa-1505/AI-Debate-Arena)
+[https://huggingface.co/spaces/Ilaa-1505/AI-Debate-Arena](https://huggingface.co/spaces/Ilaa-1505/AI-Debate-Arena)
 > Initial start-up may take some time.
 
 ---
