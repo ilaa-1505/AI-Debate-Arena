@@ -18,16 +18,17 @@ Built with FastAPI on the backend and streamed live to the frontend.
 ## Live Demo
 
 [https://huggingface.co/spaces/Ilaa-1505/AI-Debate-Arena](https://huggingface.co/spaces/Ilaa-1505/AI-Debate-Arena)
-> Initial start-up may take some time.
+
+> If the Space is sleeping, it may take ~30 seconds to wake up on first visit.
 
 ---
 
 ## Video Walkthrough
 
 
-![Demo](images/debate_demo.gif)
- 
+[![Demo](images/debate_demo.gif)](https://youtu.be/cqo8Rezsdxg)
 
+> Click the GIF to view the full demo video
 ---
 
 ## Screenshots
@@ -183,7 +184,6 @@ Open `http://localhost:5173`, pick a motion, choose your rounds, and begin.
 
 ## What's next
 
-- Persistent session storage so debates survive server restarts
 - Add emotions to Aria and Rex's Persona.
-- Custom agent personas beyond ARIA and REX
-- Human vs AI mode where you argue one side yourself
+- Custom agent personas beyond ARIA and REX.
+- Human vs AI mode where user argues on one.
