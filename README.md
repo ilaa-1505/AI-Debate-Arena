@@ -1,12 +1,3 @@
----
-title: AI Debate Arena
-emoji: 🏢
-colorFrom: pink
-colorTo: purple
-sdk: docker
-pinned: false
----
-
 # AI Debate Arena
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python&logoColor=white)
