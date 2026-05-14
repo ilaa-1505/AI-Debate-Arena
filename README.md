@@ -24,7 +24,8 @@ Built with FastAPI on the backend and streamed live to the frontend.
 
 ## Video Walkthrough
 
-[![Watch demo](images/demo.gif)]
+
+![Demo](images/demo.gif)
  
 
 ---
