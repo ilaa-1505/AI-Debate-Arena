@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+myenv/
+
+# Node
+node_modules/
+debate-frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
