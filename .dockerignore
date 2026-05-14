@@ -1,0 +1,8 @@
+node_modules
+debate-frontend/node_modules
+debate-frontend/build
+__pycache__
+*.pyc
+myenv
+venv
+.git
